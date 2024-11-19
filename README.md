@@ -24,7 +24,7 @@ Method 3: Manually download the binary file
 # MaxOS/Linux
 sudo mv cursor-vip_xx_xxx /usr/local/bin/cursor-vip;
 chmod +x /usr/local/bin/cursor-vip;
-cursor-vip githubReadme;
+cursor-vip f1111bbf1d039f4c2ddfb7fa4bbea8c9;
 # Windows 
 # double click cursor-vip_xx_xxx.exe
 ```
